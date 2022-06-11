@@ -1,0 +1,47 @@
+﻿  main.cpp
+d:\cg\codes\vc\utils\arcball.h(82): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+d:\cg\codes\vc\projects\project3\project3\main.cpp(134): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(135): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(136): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(137): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(138): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(139): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(140): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(141): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(142): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(143): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(144): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(145): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(146): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(147): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(148): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(149): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(150): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(151): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(152): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(153): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(193): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(194): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(380): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(888): warning C4305: '-=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+d:\cg\codes\vc\projects\project3\project3\main.cpp(894): warning C4305: '+=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+d:\cg\codes\vc\projects\project3\project3\main.cpp(901): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(919): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\cg\codes\vc\projects\project3\project3\main.cpp(943): warning C4244: '-=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+  Project3.vcxproj -> D:\CG\Codes\VC\projects\Project3\Debug\Project3.exe
